@@ -1,1 +1,2 @@
 this file is added to the feature2 branch.
+Another line
